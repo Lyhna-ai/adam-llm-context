@@ -39,16 +39,22 @@ Near-term next actions:
 
 Goal: prepare Arlo for a careful OpenClaw Runtime to Hermes Agent migration.
 
-Status: dossier filed 2026-05-16.
+Status: dossier filed 2026-05-16; Drop Zone library pass updated the local Obsidian state the same day.
 
 What exists now:
 
-- Full dossier in this repo: `inbox/codex/2026-05-16-hermes-agent-dossier-for-arlo-openclaw-migration.md`.
+- Public-safe dossier routing summary in this repo: `inbox/codex/2026-05-16-hermes-agent-dossier-for-arlo-openclaw-migration.md`.
 - Private Obsidian copies filed under both Arlo and Keryke project memories.
 - Arlo receives the dossier as migration guidance.
 - Keryke receives the dossier as shared Hermes runtime knowledge only.
+- Local Obsidian now also contains summarized 2026-05-16 notes for Arlo's real build-plan status, A.4 arc closure, Hermes bridge prototype decision, and the Cut 1 install/harness prompt.
 
 Important boundary:
 
 - Do not treat Keryke as part of the Arlo runtime migration.
 - Before touching production, secrets, gateways, or runtime behavior, refresh the official Hermes docs and verify current migration command behavior.
+
+Current next move:
+
+- Run the Hermes Bridge Cut 1 install/harness against a fresh bare Hermes runtime before strategic runtime cutover.
+- Treat A.5 Context Engine cluster and A.6 L12 SUB stack as remaining May 4 plan spine items after A.4.

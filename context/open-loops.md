@@ -15,8 +15,21 @@ A Hermes Agent migration dossier was filed on 2026-05-16.
 Key open loop:
 
 - Before any Arlo/OpenClaw migration edits, the acting coding agent should read `inbox/codex/2026-05-16-hermes-agent-dossier-for-arlo-openclaw-migration.md`.
+- Run the Hermes Bridge Cut 1 install/harness against a fresh bare Hermes runtime before strategic runtime cutover.
+- Treat A.5 Context Engine cluster and A.6 L12 SUB stack as remaining May 4 plan spine items after A.4.
 - Refresh official Hermes docs before production work, especially migration command behavior, release state, secrets, gateways, MCP, cron, and runtime surfaces.
 - Keep Arlo and Keryke scope separate. Keryke only receives the dossier as shared Hermes runtime knowledge.
+
+## Drop Zone Library Pass
+
+The Obsidian Drop Zone was processed on 2026-05-16.
+
+Result:
+
+- `00_inbox/Drop Zone.md` is clear again.
+- Raw source files were moved under project/reference `raw_drop_imports` folders.
+- Durable notes were created for Arlo build status, A.4 closure, Hermes bridge prototype/install harness, Lyhna dashboard authority, and context-window handoff hygiene.
+- Project MOCs/indexes and the Codex Retrieval Map were updated locally in Obsidian.
 
 ## AI Contribution Lanes
 
