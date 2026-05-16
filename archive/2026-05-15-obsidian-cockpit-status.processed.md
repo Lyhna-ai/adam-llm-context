@@ -1,5 +1,14 @@
 # 2026-05-15 Obsidian Cockpit Status
 
+Processed into Obsidian on 2026-05-16.
+
+Merged into local vault notes:
+
+- `00_inbox/AI Drops/Codex/Codex Drops.md`
+- `10_doctrine/Obsidian Cockpit Operating Model.md`
+- `20_projects/Second Brain Setup.md`
+- `50_journal/daily/2026-05-16.md`
+
 ## Summary
 
 Adam asked to recreate an Obsidian-centered PKM cockpit inspired by a YouTube workflow: low-friction capture, agent logging, browser-like embedded workspaces, dashboards, and eventually a plugin.
