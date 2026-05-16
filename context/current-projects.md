@@ -34,3 +34,21 @@ Near-term next actions:
 - Keep this repo updated from the Obsidian vault.
 - Decide whether the next cockpit iteration should be a local browser app backed by vault files.
 - Decide later whether to add direct Obsidian MCP, Local REST API, or Publish.
+
+## Arlo OpenClaw To Hermes Migration
+
+Goal: prepare Arlo for a careful OpenClaw Runtime to Hermes Agent migration.
+
+Status: dossier filed 2026-05-16.
+
+What exists now:
+
+- Full dossier in this repo: `inbox/codex/2026-05-16-hermes-agent-dossier-for-arlo-openclaw-migration.md`.
+- Private Obsidian copies filed under both Arlo and Keryke project memories.
+- Arlo receives the dossier as migration guidance.
+- Keryke receives the dossier as shared Hermes runtime knowledge only.
+
+Important boundary:
+
+- Do not treat Keryke as part of the Arlo runtime migration.
+- Before touching production, secrets, gateways, or runtime behavior, refresh the official Hermes docs and verify current migration command behavior.

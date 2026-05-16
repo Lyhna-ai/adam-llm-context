@@ -8,6 +8,16 @@ Tabula should eventually save or export raw material into:
 
 Codex should then process those files into durable Obsidian notes.
 
+## Arlo OpenClaw To Hermes Migration
+
+A Hermes Agent migration dossier was filed on 2026-05-16.
+
+Key open loop:
+
+- Before any Arlo/OpenClaw migration edits, the acting coding agent should read `inbox/codex/2026-05-16-hermes-agent-dossier-for-arlo-openclaw-migration.md`.
+- Refresh official Hermes docs before production work, especially migration command behavior, release state, secrets, gateways, MCP, cron, and runtime surfaces.
+- Keep Arlo and Keryke scope separate. Keryke only receives the dossier as shared Hermes runtime knowledge.
+
 ## AI Contribution Lanes
 
 Each assistant should have its own inbox/outbox lane rather than editing the same canonical files:
