@@ -27,6 +27,17 @@ This repository should stay small, public-safe, current, and easy for other LLMs
 
 Later, evaluate whether to add Obsidian MCP, Local REST API, Obsidian Publish, or another controlled browser-readable mirror. Direct unrestricted writing by multiple LLMs is not the default plan.
 
+## Obsidian Cockpit UX
+
+Mission Control v0 exists in the vault as a markdown dashboard, canvas, config note, daily log structure, Bases views, and an experimental local plugin.
+
+Current judgment:
+
+- It is good enough as an Obsidian-native memory surface.
+- It is not yet good enough as a browser-like daily workspace.
+- Do not spend more time trying to force Obsidian canvas/markdown to feel like a polished browser app unless Adam explicitly asks.
+- If Adam wants a real cockpit, build a small local web dashboard that uses the vault as the backend.
+
 ## Backup And Sync Safety
 
 The vault currently lives under OneDrive Documents. Avoid mixing multiple sync systems against the same vault without a backup plan.
@@ -39,4 +50,4 @@ Useful Adam commands:
 - "Process Tabula."
 - "Update the LLM context repo."
 - "Check Claude/ChatGPT inbox and merge what matters."
-
+- "Open the cockpit." This should mean the single Obsidian Cockpit launcher or a future browser dashboard, not the old separate Vault/Drop Zone shortcuts.
