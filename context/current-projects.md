@@ -35,23 +35,25 @@ Near-term next actions:
 - Decide whether the next cockpit iteration should be a local browser app backed by vault files.
 - Decide later whether to add direct Obsidian MCP, Local REST API, or Publish.
 
-## Arlo OpenClaw To Hermes Migration
+## Arlo To Keryke Hermes Foundation
 
-Goal: prepare Arlo for a careful OpenClaw Runtime to Hermes Agent migration.
+Goal: preserve Arlo's existing capability foundation while it transitions toward the Keryke name and Hermes pack architecture.
 
-Status: dossier filed 2026-05-16; Drop Zone library pass updated the local Obsidian state the same day.
+Status: foundation pack filed locally in Obsidian on 2026-05-16 under both Arlo and Keryke.
 
 What exists now:
 
 - Public-safe dossier routing summary in this repo: `inbox/codex/2026-05-16-hermes-agent-dossier-for-arlo-openclaw-migration.md`.
 - Private Obsidian copies filed under both Arlo and Keryke project memories.
-- Arlo receives the dossier as migration guidance.
-- Keryke receives the dossier as shared Hermes runtime knowledge only.
+- Public-safe foundation-pack routing summary in this repo: `inbox/codex/2026-05-16-arlo-to-keryke-hermes-pack-foundation.md`.
+- Arlo receives the pack as historical substrate, capability inventory, and OpenClaw-to-Hermes migration lineage.
+- Keryke receives the pack as the emerging product identity and forward business operating layer.
 - Local Obsidian now also contains summarized 2026-05-16 notes for Arlo's real build-plan status, A.4 arc closure, Hermes bridge prototype decision, and the Cut 1 install/harness prompt.
+- Local Obsidian now mirrors the 2026-05-16 Hermes Pack Plan under both `20_projects/arlo_inc` and `20_projects/keryke`.
 
 Important boundary:
 
-- Do not treat Keryke as part of the Arlo runtime migration.
+- Adam said Arlo Inc is going to become Keryke, but do not perform a filesystem/repo rename until he explicitly authorizes it.
 - Before touching production, secrets, gateways, or runtime behavior, refresh the official Hermes docs and verify current migration command behavior.
 
 Current next move:

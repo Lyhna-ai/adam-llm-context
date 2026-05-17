@@ -8,17 +8,19 @@ Tabula should eventually save or export raw material into:
 
 Codex should then process those files into durable Obsidian notes.
 
-## Arlo OpenClaw To Hermes Migration
+## Arlo To Keryke Hermes Foundation
 
-A Hermes Agent migration dossier was filed on 2026-05-16.
+The 2026-05-16 Hermes Pack Plan and Drop Zone embeds were filed locally under both Arlo and Keryke on 2026-05-16.
 
 Key open loop:
 
+- Treat Arlo Inc as the origin substrate/capability system and Keryke as the incoming product identity until Adam authorizes the formal rename.
 - Before any Arlo/OpenClaw migration edits, the acting coding agent should read `inbox/codex/2026-05-16-hermes-agent-dossier-for-arlo-openclaw-migration.md`.
+- For pack/foundation work, read `inbox/codex/2026-05-16-arlo-to-keryke-hermes-pack-foundation.md`.
 - Run the Hermes Bridge Cut 1 install/harness against a fresh bare Hermes runtime before strategic runtime cutover.
 - Treat A.5 Context Engine cluster and A.6 L12 SUB stack as remaining May 4 plan spine items after A.4.
 - Refresh official Hermes docs before production work, especially migration command behavior, release state, secrets, gateways, MCP, cron, and runtime surfaces.
-- Keep Arlo and Keryke scope separate. Keryke only receives the dossier as shared Hermes runtime knowledge.
+- Keep production migration discipline even while the naming transition is happening.
 
 ## Drop Zone Library Pass
 
@@ -30,6 +32,7 @@ Result:
 - Raw source files were moved under project/reference `raw_drop_imports` folders.
 - Durable notes were created for Arlo build status, A.4 closure, Hermes bridge prototype/install harness, Lyhna dashboard authority, and context-window handoff hygiene.
 - Project MOCs/indexes and the Codex Retrieval Map were updated locally in Obsidian.
+- The later Hermes Pack pass also mirrored foundation material under both Arlo and Keryke and cleared the new Drop Zone embeds.
 
 ## AI Contribution Lanes
 
